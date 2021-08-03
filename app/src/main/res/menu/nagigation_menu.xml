@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home1"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/liked1"
+        android:enabled="true"
+        android:icon="@drawable/ic_liked2"
+        android:title="Liked" />
+    <item
+        android:id="@+id/info1"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:title="Info" />
+</menu>

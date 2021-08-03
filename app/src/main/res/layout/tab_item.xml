@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:padding="5dp"
+    android:id="@+id/linear"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tab_item_round">
+
+    <TextView
+        android:gravity="center"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:id="@+id/item_tv"
+        android:text="Ogohlantiruvchi"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textColor="@color/white" />
+</LinearLayout>
